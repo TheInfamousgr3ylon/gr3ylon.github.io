@@ -1,2 +1,1 @@
-# gr3ylon.github.io
-My trashy website.
+# Hello World
